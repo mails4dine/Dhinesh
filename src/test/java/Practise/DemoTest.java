@@ -6,6 +6,6 @@ public class DemoTest {
 	public void appleTest() {
 		
 		System.out.println("Hi Apple Fruit");
-		System.out.println("Author Dhinesh");
+		System.out.println("Author Dhineshkumar");
 	}
 }
