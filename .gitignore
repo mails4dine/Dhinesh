@@ -1,0 +1,8 @@
+target/
+ExtentReports/
+test-output/
+temp-testng.xml
+.settings/
+.project
+.classpath
+*.log
